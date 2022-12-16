@@ -34,5 +34,6 @@ class Bubble
     int w = (int)(Math.random()*5)-2;
     myX += w;
     myY -= r; // needs to change to be rtandom but still influenced by size
-  } //<>//
+  
+}
 } 
